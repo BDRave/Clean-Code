@@ -7,7 +7,7 @@ char caesar(char token, int key);
 
 int main(int argc, string argv[]) {
 
-    // Оголошення змінних
+    // Announcements variables
     bool keySuccessful = false;
     string keyword = "";
     int keylength = 0;
